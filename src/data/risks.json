@@ -1,0 +1,19 @@
+{
+  "programme_id": "PRG-4417",
+  "page": 1,
+  "page_size": 25,
+  "risks": [
+    { "id": "RSK-1042", "title": "Tier-2 casting supplier single-sourced", "severity": "Critical", "status": "open", "owner_id": "usr_8831", "mitigation_count": 3, "cost_impact_eur": 480000, "updated_at": "2026-08-28T09:14:22Z" },
+    { "id": "RSK-1043", "title": "Weld inspection coverage below spec on frame assembly", "severity": "critical", "status": "open", "owner_id": "usr_2210", "mitigation_count": 1, "cost_impact_eur": 125000, "updated_at": "2026-08-31T16:02:10Z" },
+    { "id": "RSK-1044", "title": "Harness routing clash with revised bracket", "severity": "High", "status": "mitigating", "owner_id": "usr_8831", "mitigation_count": 2, "cost_impact_eur": 62000, "updated_at": "2026-08-19T11:45:00Z" },
+    { "id": "RSK-1045", "title": "Coating line capacity during Q4 ramp", "severity": "HIGH", "status": "mitigating", "owner_id": "usr_5502", "mitigation_count": 4, "cost_impact_eur": 310000, "updated_at": "2026-09-01T07:30:41Z" },
+    { "id": "RSK-1046", "title": "Torque spec ambiguity in assembly work instruction", "severity": "Medium", "status": "open", "owner_id": "usr_2210", "mitigation_count": 0, "cost_impact_eur": 18000, "updated_at": "2026-07-30T13:20:55Z" },
+    { "id": "RSK-1047", "title": "Late delivery of calibration fixtures", "severity": "medium", "status": "accepted", "owner_id": "usr_9014", "mitigation_count": 1, "cost_impact_eur": 44000, "updated_at": "2026-08-05T08:00:00Z" },
+    { "id": "RSK-1048", "title": "Operator training backlog on new press", "severity": "Low", "status": "closed", "owner_id": "usr_5502", "mitigation_count": 2, "cost_impact_eur": 9500, "updated_at": "2026-06-22T15:11:09Z" },
+    { "id": "RSK-1049", "title": "Packaging spec not finalised for export variant", "severity": "Moderate", "status": "open", "owner_id": "usr_9014", "mitigation_count": 0, "cost_impact_eur": 27500, "updated_at": "2026-08-27T10:05:33Z" },
+    { "id": "RSK-1050", "title": "Supplier quality audit overdue — Site C", "severity": "High", "status": "mitigating", "owner_id": "usr_8831", "mitigation_count": 5, "cost_impact_eur": 88000, "updated_at": "2026-09-02T06:48:17Z" },
+    { "id": "RSK-1051", "title": "Drawing revision not propagated to Site B", "severity": "", "status": "open", "owner_id": "usr_2210", "mitigation_count": 1, "cost_impact_eur": 0, "updated_at": "2026-08-30T12:00:00Z" },
+    { "id": "RSK-1052", "title": "Coolant disposal contract expiring", "severity": "Low", "status": "accepted", "owner_id": "usr_5502", "mitigation_count": 1, "cost_impact_eur": 14000, "updated_at": "2026-07-11T09:26:04Z" },
+    { "id": "RSK-1053", "title": "Fixture wear causing dimensional drift", "severity": "Critical", "status": "open", "owner_id": "usr_9014", "mitigation_count": 2, "cost_impact_eur": 205000, "updated_at": "2026-09-01T18:33:50Z" }
+  ]
+}
